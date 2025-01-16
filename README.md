@@ -1,1 +1,2 @@
-# Principles-of-Computer-Composition
+# 中山大学计算机组成原理实验
+## MIPS CPU设计
